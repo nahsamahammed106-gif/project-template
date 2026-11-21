@@ -23,3 +23,7 @@ node_modules/
 # Editors
 .vscode/
 .idea/
+
+# Private developer notes live in the private dev-notes repo, never here
+DEVELOPER_NOTES.md
+docs/private/
