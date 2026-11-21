@@ -1,0 +1,25 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+.coverage
+dist/
+build/
+*.egg-info/
+
+# Node / site builds
+node_modules/
+.astro/
+
+# Secrets and local config
+.env
+.env.*
+!.env.example
+
+# Editors
+.vscode/
+.idea/
